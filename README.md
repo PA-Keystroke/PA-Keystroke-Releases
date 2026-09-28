@@ -14,8 +14,7 @@
 
 ## 下载与运行
 
-1. 打开最新 Release 页面：
-   `https://github.com/uninstall400/PA-Keystroke-Releases/releases/latest`
+1. 打开最新 Release 页面：https://github.com/uninstall400/PA-Keystroke-Releases/releases/latest
 2. 下载 `PA-Keystroke.exe`。
 3. 双击运行，按 Windows 提示允许管理员权限。
 4. 程序启动后会显示设置主窗口和覆盖层。
@@ -219,7 +218,7 @@
 - `keystroke_presets.json`：键盘预设
 - `keystroke_gamepad.json`：当前手柄布局
 - `keystroke_gamepad_presets.json`：手柄预设
-- `user_settings.json`：覆盖层和运行设置
+- `user_settings.json`：用户设置/覆盖层和运行设置
 
 备份或迁移数据时，请先退出 PA Keystroke，再复制整个数据目录。
 
@@ -253,8 +252,6 @@
 
 ## 反馈
 
-欢迎向我们提出反馈：
-
-`https://github.com/uninstall400/PA-Keystroke-Releases/issues`
+欢迎向我们提出反馈：https://github.com/uninstall400/PA-Keystroke-Releases/issues
 
 或 QQ 群: 85121371
