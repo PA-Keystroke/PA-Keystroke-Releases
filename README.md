@@ -256,3 +256,5 @@
 欢迎向我们提出反馈：
 
 `https://github.com/uninstall400/PA-Keystroke-Releases/issues`
+
+或 QQ 群: 85121371
