@@ -1,0 +1,683 @@
+{
+  "format": "pa-keystroke-presets",
+  "version": 1,
+  "presets": [
+    {
+      "scope": "keyboard",
+      "name": "68K-ANSI",
+      "display_name": "68配列-ANSI",
+      "keys": [
+        {
+          "id": "f0797906dd9951a7a63d4a4c077cbeac",
+          "key": "`",
+          "name": "~\n`",
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "57a7a7152ecd5c5da75f720c185646b2",
+          "key": "1",
+          "name": "!\n1",
+          "x": 52,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "232a89d342ad5c76b6e7b84e89a81890",
+          "key": "2",
+          "name": "@\n2",
+          "x": 104,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6677de36b2495b7995bf25302ba2a64e",
+          "key": "3",
+          "name": "#\n3",
+          "x": 156,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "0fe58b176f2e5c2aa90e46193a7457c7",
+          "key": "4",
+          "name": "$\n4",
+          "x": 208,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "cef6ac5163525191bc2d9ba5db0f93b3",
+          "key": "5",
+          "name": "%\n5",
+          "x": 260,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "db24a9ea8c5c5b6fb5218c1bef5ec763",
+          "key": "6",
+          "name": "^\n6",
+          "x": 312,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "18909af7f7fd50f99915c5ed8a047199",
+          "key": "7",
+          "name": "&\n7",
+          "x": 364,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e746632143c75d03a0d1cc158251ae76",
+          "key": "8",
+          "name": "*\n8",
+          "x": 416,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "bee6292dabb75e5d80e8587b40cb53c5",
+          "key": "9",
+          "name": "(\n9",
+          "x": 468,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "23d8718f12cc547284c620b9b91af1c2",
+          "key": "0",
+          "name": ")\n0",
+          "x": 520,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "70d71d8f6c705fbc8bab876f22d5c813",
+          "key": "-",
+          "name": "_\n-",
+          "x": 572,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "3b6dfbb8a4c35d6685fb0b5bae5c46f6",
+          "key": "=",
+          "name": "+\n=",
+          "x": 624,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "21cd001492055421a291cc451ad32d62",
+          "key": "backspace",
+          "name": "BKSP",
+          "x": 676,
+          "y": 0,
+          "width": 100,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5ec37798a582511cbb6aeaed48dd839a",
+          "key": "tab",
+          "name": "TAB",
+          "x": 0,
+          "y": 52,
+          "width": 74,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "fa4fda71d87253d481c9acdc841307b7",
+          "key": "q",
+          "name": "Q",
+          "x": 78,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "475879092ff25c208122fd2f9a50fab5",
+          "key": "w",
+          "name": "W",
+          "x": 130,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "9fd573ea92255549aed9340b023f80b8",
+          "key": "e",
+          "name": "E",
+          "x": 182,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "095e0d4b05265d30860062baf5f27688",
+          "key": "r",
+          "name": "R",
+          "x": 234,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f2cc4f29827957519a96e994f6418262",
+          "key": "t",
+          "name": "T",
+          "x": 286,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e283d74248915e818933c7769c958605",
+          "key": "y",
+          "name": "Y",
+          "x": 338,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ba49e66b6fde5d8dbca3a9adae15488a",
+          "key": "u",
+          "name": "U",
+          "x": 390,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "0aa7d40e012157e6a224269ebc2fabc1",
+          "key": "i",
+          "name": "I",
+          "x": 442,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "7c05bfd7dc3851e1ab1a914f2f24b74a",
+          "key": "o",
+          "name": "O",
+          "x": 494,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "07d76b3e694a592b9cf95dbd4ac7585a",
+          "key": "p",
+          "name": "P",
+          "x": 546,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "1ca08adf91b65d168b02b4706087c4a6",
+          "key": "[",
+          "name": "{\n[",
+          "x": 598,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4d81903be2f553899589d6ec08bb8e39",
+          "key": "]",
+          "name": "}\n]",
+          "x": 650,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "c4f07438b06b5c64bbc03f2a35a34aac",
+          "key": "\\",
+          "name": "|\n\\",
+          "x": 702,
+          "y": 52,
+          "width": 74,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "173713ca53155e2babad6913489b0e30",
+          "key": "caps_lock",
+          "name": "CAPS",
+          "x": 0,
+          "y": 104,
+          "width": 87,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ffb047fc8cbe5b79b00a762f7abcba8e",
+          "key": "a",
+          "name": "A",
+          "x": 91,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b16b8fc75e965b8d84f6482d478798da",
+          "key": "s",
+          "name": "S",
+          "x": 143,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4caaeed5dd835a3e9798d3dd0af8ca51",
+          "key": "d",
+          "name": "D",
+          "x": 195,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "31358a890f8d5624aedd0322bb2b49f4",
+          "key": "f",
+          "name": "F",
+          "x": 247,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b7496b05118b57c69925327ef16ee0a5",
+          "key": "g",
+          "name": "G",
+          "x": 299,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ce9c79764d4a5d96ac3f734d5260e094",
+          "key": "h",
+          "name": "H",
+          "x": 351,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "bc861e1df548561ba2211bdf19f9c58a",
+          "key": "j",
+          "name": "J",
+          "x": 403,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "749042daee86587fbaedf87bc7e1c709",
+          "key": "k",
+          "name": "K",
+          "x": 455,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "59bd8728506a563f865361ea68a10723",
+          "key": "l",
+          "name": "L",
+          "x": 507,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "73196dd1e57e5e609623cc9286dead87",
+          "key": ";",
+          "name": ":\n;",
+          "x": 559,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "c84dc672e021532790ae56392073d52d",
+          "key": "'",
+          "name": "\"\n'",
+          "x": 611,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "14f8f82386455b7282b66193a3acef23",
+          "key": "enter",
+          "name": "ENTER",
+          "x": 663,
+          "y": 104,
+          "width": 113,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5e87ce4440fc5e01864bad4352540d81",
+          "key": "shift",
+          "name": "SHIFT",
+          "x": 0,
+          "y": 156,
+          "width": 113,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f689e65810b75fe3a9d78d0232d394df",
+          "key": "z",
+          "name": "Z",
+          "x": 117,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4c0df3bab0cd51cfa3470401b76f498f",
+          "key": "x",
+          "name": "X",
+          "x": 169,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "d2320643307f525984edf16dcf751250",
+          "key": "c",
+          "name": "C",
+          "x": 221,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "34dd3d89a38c5fd397437c30576b5224",
+          "key": "v",
+          "name": "V",
+          "x": 273,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5a2c12c917b5518daca6cb4a10419d91",
+          "key": "b",
+          "name": "B",
+          "x": 325,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "26700097e9165406975938722775f8a1",
+          "key": "n",
+          "name": "N",
+          "x": 377,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "cee76285977652189cdbfd2c89169a3b",
+          "key": "m",
+          "name": "M",
+          "x": 429,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "33ba708ce90b5f31842c647a99cb5939",
+          "key": ",",
+          "name": "<\n,",
+          "x": 481,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6e3db39df0d151e1b815dc65b48288b6",
+          "key": ".",
+          "name": ">\n.",
+          "x": 533,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "97e7080ae6c85ac286b8c7b2074ec282",
+          "key": "/",
+          "name": "?\n/",
+          "x": 585,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "965bb46213875cfc9e60e6e4baa3aecd",
+          "key": "shift_r",
+          "name": "SHIFT",
+          "x": 637,
+          "y": 156,
+          "width": 139,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "85051f931b665a5b8f82edbc38af7d1a",
+          "key": "ctrl_l",
+          "name": "CTRL",
+          "x": 0,
+          "y": 208,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "351c9b03a02f5af6a0256fbd7f124de4",
+          "key": "cmd",
+          "name": "WIN",
+          "x": 65,
+          "y": 208,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "47c1a370749a50a2896d42da8aa47396",
+          "key": "alt_l",
+          "name": "ALT",
+          "x": 130,
+          "y": 208,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "df4f17eab53059f9b60dfdf2eae43bf8",
+          "key": "space",
+          "name": "SPACE",
+          "x": 195,
+          "y": 208,
+          "width": 321,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "378df079bff651e8b64267191e753244",
+          "key": "alt_r",
+          "name": "ALT",
+          "x": 520,
+          "y": 208,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f3413cff654f507aba1ed9a65c7ec24e",
+          "key": "ctrl_r",
+          "name": "CTRL",
+          "x": 650,
+          "y": 208,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "52eca023dbc152758560459312e18f29",
+          "key": "delete",
+          "name": "DEL",
+          "x": 793,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "66caf197cbbf5cab8013ffba5c4ef7a2",
+          "key": "page_up",
+          "name": "PGUP",
+          "x": 793,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "94019878e1935124abd368b3f0b3a8fb",
+          "key": "page_down",
+          "name": "PGDN",
+          "x": 793,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "334761c4a4ba586ebb9c26a444bf90d6",
+          "key": "end",
+          "name": "END",
+          "x": 793,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b35a5e3291d75274860af8e1cf1258b0",
+          "key": "up",
+          "name": "UP",
+          "x": 845,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "da99928c795655a5ba5884b527a99b3f",
+          "key": "left",
+          "name": "LEFT",
+          "x": 741,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ed3f03e4fac6503aa5bc3b779df589ea",
+          "key": "down",
+          "name": "DOWN",
+          "x": 793,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b03feed7db875b91bd16a1a25d833446",
+          "key": "right",
+          "name": "RIGHT",
+          "x": 845,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        }
+      ]
+    }
+  ]
+}

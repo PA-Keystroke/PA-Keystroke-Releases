@@ -1,0 +1,983 @@
+{
+  "format": "pa-keystroke-presets",
+  "version": 1,
+  "presets": [
+    {
+      "scope": "keyboard",
+      "name": "98K-ANSI",
+      "display_name": "98配列-ANSI",
+      "keys": [
+        {
+          "id": "84efe4111f5359f7af15a8120d352f21",
+          "key": "esc",
+          "name": "ESC",
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6faa6cecbe0059929034b5e3ee4db8d9",
+          "key": "f1",
+          "name": "F1",
+          "x": 104,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6a08199975175205aa116b339d90b92f",
+          "key": "f2",
+          "name": "F2",
+          "x": 156,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "7152481b2416594d99140d1b76e9b4e4",
+          "key": "f3",
+          "name": "F3",
+          "x": 208,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6656caff3d785518bfe5fb33de89aa70",
+          "key": "f4",
+          "name": "F4",
+          "x": 260,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4528708969c15c8dafb35f8da5632325",
+          "key": "f5",
+          "name": "F5",
+          "x": 338,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8feeef7b3ea35cd69ecfd1740941d3f1",
+          "key": "f6",
+          "name": "F6",
+          "x": 390,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "2185892e66db58e088e8c40d53737820",
+          "key": "f7",
+          "name": "F7",
+          "x": 442,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "67465bc870fb52828428ff309c3dbb7f",
+          "key": "f8",
+          "name": "F8",
+          "x": 494,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b023160922a754f7a0cf015c44e60667",
+          "key": "f9",
+          "name": "F9",
+          "x": 572,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ac008d95a27a525eafb662c2da363019",
+          "key": "f10",
+          "name": "F10",
+          "x": 624,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8ceaec3a1a6552379e46509b68ffddca",
+          "key": "f11",
+          "name": "F11",
+          "x": 676,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "266b937e41e45b5ca4a9b7a1747e6e4d",
+          "key": "f12",
+          "name": "F12",
+          "x": 728,
+          "y": 0,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f968d7e1c65e5d4992aff3a6df607aa4",
+          "key": "`",
+          "name": "~\n`",
+          "x": 0,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "c4b5785351c6576dae57a7949e261550",
+          "key": "1",
+          "name": "!\n1",
+          "x": 52,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e545607a71605c12b20fc969e15426c6",
+          "key": "2",
+          "name": "@\n2",
+          "x": 104,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "7c94d4ba1d8e505999614d00a34f3536",
+          "key": "3",
+          "name": "#\n3",
+          "x": 156,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ed7263f0928c5e2ebcc45f94674b896e",
+          "key": "4",
+          "name": "$\n4",
+          "x": 208,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "c28254b2ab0d5f328fd2b2d116a73dff",
+          "key": "5",
+          "name": "%\n5",
+          "x": 260,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "54da5d61b44659bdb4890a02aee4fc2b",
+          "key": "6",
+          "name": "^\n6",
+          "x": 312,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6e85421623cc529a98115a5d4d1c2874",
+          "key": "7",
+          "name": "&\n7",
+          "x": 364,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "9803ebfc639d53a3be46c4c972e9df3f",
+          "key": "8",
+          "name": "*\n8",
+          "x": 416,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "0a5d0649fcbb5c4faa004b149fcc251f",
+          "key": "9",
+          "name": "(\n9",
+          "x": 468,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e42d33eabba85b4190fd6c420d84cde7",
+          "key": "0",
+          "name": ")\n0",
+          "x": 520,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "31ce38f12ef35bec93f943ec54089f33",
+          "key": "-",
+          "name": "_\n-",
+          "x": 572,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "dba1634eab7a5eebb2b407dbe6d2d701",
+          "key": "=",
+          "name": "+\n=",
+          "x": 624,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "9c122b36c96c5b16b634013ea8469b78",
+          "key": "backspace",
+          "name": "BKSP",
+          "x": 676,
+          "y": 52,
+          "width": 100,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "978309c54a075a1197b85eb617a0b34d",
+          "key": "tab",
+          "name": "TAB",
+          "x": 0,
+          "y": 104,
+          "width": 74,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "dd297c7a97e752fdbb1a616b8907d2c8",
+          "key": "q",
+          "name": "Q",
+          "x": 78,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "af5b0992969759b18de24aa209891906",
+          "key": "w",
+          "name": "W",
+          "x": 130,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "cd0761a9f5755c5eacbb69db2bcb604c",
+          "key": "e",
+          "name": "E",
+          "x": 182,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "a699a454434e513f8e48dc3e0fc16b37",
+          "key": "r",
+          "name": "R",
+          "x": 234,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "1157cf564e4c5265bce8f88ebe7e5fd7",
+          "key": "t",
+          "name": "T",
+          "x": 286,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "28fe74398e0f5fdb95473b59a03c9b3c",
+          "key": "y",
+          "name": "Y",
+          "x": 338,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "eb12c8f9e5a451358b3b46eee8d202a4",
+          "key": "u",
+          "name": "U",
+          "x": 390,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "986c107c3f4159b1b5c860fc495f2242",
+          "key": "i",
+          "name": "I",
+          "x": 442,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "23de7dba24275cbbb257e0538f6ccdae",
+          "key": "o",
+          "name": "O",
+          "x": 494,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "88790bf923b453aab91eaad7369f00a8",
+          "key": "p",
+          "name": "P",
+          "x": 546,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "54c0e427043c5e82a137a5a3ba4308ed",
+          "key": "[",
+          "name": "{\n[",
+          "x": 598,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "460a65d18ef05e4490cb60eac5700939",
+          "key": "]",
+          "name": "}\n]",
+          "x": 650,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "682f230a61585825a0d81e2c0d74459d",
+          "key": "\\",
+          "name": "|\n\\",
+          "x": 702,
+          "y": 104,
+          "width": 74,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b11c08a8809c553495e049fa370d8d35",
+          "key": "caps_lock",
+          "name": "CAPS",
+          "x": 0,
+          "y": 156,
+          "width": 87,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f049502401145402bb089dbee32bcf03",
+          "key": "a",
+          "name": "A",
+          "x": 91,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "75a4b8683ba355efaa5c98c4377e4f5c",
+          "key": "s",
+          "name": "S",
+          "x": 143,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "93e486f6fde95d9cbfbb747ad870a645",
+          "key": "d",
+          "name": "D",
+          "x": 195,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "af75092b75325e7bb5e4de417c230a70",
+          "key": "f",
+          "name": "F",
+          "x": 247,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "2c6c6d599d03560387104f8552cd16d2",
+          "key": "g",
+          "name": "G",
+          "x": 299,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "36d0041925bd555a9af84bc197a6e385",
+          "key": "h",
+          "name": "H",
+          "x": 351,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5c09aae8aca453b0baabc42ce8f5b2ec",
+          "key": "j",
+          "name": "J",
+          "x": 403,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "d43f58f711a75ef687e6a2954d933ca6",
+          "key": "k",
+          "name": "K",
+          "x": 455,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "71fec3ed991d5a6698ade00b899860a0",
+          "key": "l",
+          "name": "L",
+          "x": 507,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "1e40868e3cdd539b853c0a7d6ea472b0",
+          "key": ";",
+          "name": ":\n;",
+          "x": 559,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f19c159718d851dd9280af7831f75fa3",
+          "key": "'",
+          "name": "\"\n'",
+          "x": 611,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "34f9dec6f2945b6b9674bc6e267855ca",
+          "key": "enter",
+          "name": "ENTER",
+          "x": 663,
+          "y": 156,
+          "width": 113,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b34aa9131ec659f597157f1873681949",
+          "key": "shift",
+          "name": "SHIFT",
+          "x": 0,
+          "y": 208,
+          "width": 113,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "25ebd85ef9bc5b75a277db37e41f9c0b",
+          "key": "z",
+          "name": "Z",
+          "x": 117,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e0edfc82429b572da4b2b3e734ae558e",
+          "key": "x",
+          "name": "X",
+          "x": 169,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "edbcd03b03d15bad8da451aa698aa159",
+          "key": "c",
+          "name": "C",
+          "x": 221,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8b0ca6a66485527bb97691c0faab91a7",
+          "key": "v",
+          "name": "V",
+          "x": 273,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8e5baea173fc5930b3b48c71c32c18db",
+          "key": "b",
+          "name": "B",
+          "x": 325,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "f9df65c18b6153ec8753706dd1e1b007",
+          "key": "n",
+          "name": "N",
+          "x": 377,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "11edcaa3df485b1d8d627d11f8922acf",
+          "key": "m",
+          "name": "M",
+          "x": 429,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "98644aa1a65c5844b887be42f72d7a7a",
+          "key": ",",
+          "name": "<\n,",
+          "x": 481,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "6014f2bcc58654daa45aceb2bad41239",
+          "key": ".",
+          "name": ">\n.",
+          "x": 533,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "23cb8dd580725efa859b8f859ddf80fd",
+          "key": "/",
+          "name": "?\n/",
+          "x": 585,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "689a8b47daad51779955f37bd37f8253",
+          "key": "shift_r",
+          "name": "SHIFT",
+          "x": 637,
+          "y": 208,
+          "width": 139,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8f8486b159f35cedb945c532ae02ccb4",
+          "key": "ctrl_l",
+          "name": "CTRL",
+          "x": 0,
+          "y": 260,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "94973ad0e97d51f0872d150311a2a112",
+          "key": "cmd",
+          "name": "WIN",
+          "x": 65,
+          "y": 260,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "8bb096b24a135488bca15304c7a6fcd2",
+          "key": "alt_l",
+          "name": "ALT",
+          "x": 130,
+          "y": 260,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "ed773c0068cd5c3a8b68c6d582f4f33c",
+          "key": "space",
+          "name": "SPACE",
+          "x": 195,
+          "y": 260,
+          "width": 321,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "552e2074f1415c66b7683905859bc0ec",
+          "key": "alt_r",
+          "name": "ALT",
+          "x": 520,
+          "y": 260,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "89eb2854b1ca512db1e58f5422bd04e8",
+          "key": "ctrl_r",
+          "name": "CTRL",
+          "x": 650,
+          "y": 260,
+          "width": 61,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5d264d48fc085bddbaa22a6b2abb2af9",
+          "key": "home",
+          "name": "HOME",
+          "x": 793,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "98f952efca1c570ca2641740325d8263",
+          "key": "page_up",
+          "name": "PGUP",
+          "x": 845,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "a752fbf8349c5d9f8828d09600d4c151",
+          "key": "end",
+          "name": "END",
+          "x": 793,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "5614a8101fc352ecb075892c1a5bee83",
+          "key": "page_down",
+          "name": "PGDN",
+          "x": 845,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e096956c26a25c0a99e7cd2356a79e47",
+          "key": "up",
+          "name": "UP",
+          "x": 793,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "93d2c8157b475f5eaff0973e4df8a973",
+          "key": "left",
+          "name": "LEFT",
+          "x": 741,
+          "y": 260,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "657c6c820d425e0b9b6e524409de5454",
+          "key": "down",
+          "name": "DOWN",
+          "x": 793,
+          "y": 260,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b9e1638f28355c189f29c7e4f67b46ea",
+          "key": "right",
+          "name": "RIGHT",
+          "x": 845,
+          "y": 260,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4993ecc58f495c9e96a71e72ca4d2a0c",
+          "key": "num_lock",
+          "name": "NUM",
+          "x": 910,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "35adb15f381854059ac27f2f12122c11",
+          "key": "numpad_divide",
+          "name": "/",
+          "x": 962,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "03c8406478d85fbeb67d1b05e367ec1b",
+          "key": "numpad_multiply",
+          "name": "*",
+          "x": 1014,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "57da97ace9315fa0a80989f85f1c4acf",
+          "key": "numpad_subtract",
+          "name": "-",
+          "x": 1066,
+          "y": 52,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e3f897e51ccf5cebb693f5aa03b4281e",
+          "key": "numpad_7",
+          "name": "7",
+          "x": 910,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "9162f1fd2cf45908a5bfd52e7c47aa1c",
+          "key": "numpad_8",
+          "name": "8",
+          "x": 962,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "05094590f9875371b29d73c1b859f2b6",
+          "key": "numpad_9",
+          "name": "9",
+          "x": 1014,
+          "y": 104,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "b382fbb6184453fea93a6c16432fdb86",
+          "key": "numpad_add",
+          "name": "+",
+          "x": 1066,
+          "y": 104,
+          "width": 48,
+          "height": 100,
+          "size": 100
+        },
+        {
+          "id": "f4af08ea7fc6589fa5f5459f1205758b",
+          "key": "numpad_4",
+          "name": "4",
+          "x": 910,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "a4a916cb489b545eb3713a04bbb1cd3d",
+          "key": "numpad_5",
+          "name": "5",
+          "x": 962,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "e8549d736c75546c84639f8687ea0ef1",
+          "key": "numpad_6",
+          "name": "6",
+          "x": 1014,
+          "y": 156,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "db022eadf21c57788083981bda8597de",
+          "key": "numpad_1",
+          "name": "1",
+          "x": 910,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "4083d8493a66512e94f10c6d5cf99f5f",
+          "key": "numpad_2",
+          "name": "2",
+          "x": 962,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "c32ea015acc6589da225f03beaaae982",
+          "key": "numpad_3",
+          "name": "3",
+          "x": 1014,
+          "y": 208,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "fa0017eacfe65c069cdeaa98d7b46bb3",
+          "key": "numpad_enter",
+          "name": "ENT",
+          "x": 1066,
+          "y": 208,
+          "width": 48,
+          "height": 100,
+          "size": 100
+        },
+        {
+          "id": "4ef98d7ec7f15b33b92565e9446227db",
+          "key": "numpad_0",
+          "name": "0",
+          "x": 910,
+          "y": 260,
+          "width": 100,
+          "height": 48,
+          "size": 48
+        },
+        {
+          "id": "2d9503671e1d57e7a8a2dde15e9e7636",
+          "key": "numpad_decimal",
+          "name": ".",
+          "x": 1014,
+          "y": 260,
+          "width": 48,
+          "height": 48,
+          "size": 48
+        }
+      ]
+    }
+  ]
+}
