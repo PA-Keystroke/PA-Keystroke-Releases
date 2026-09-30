@@ -15,9 +15,10 @@
 ## 下载与运行
 
 1. 打开最新 Release 页面：https://github.com/uninstall400/PA-Keystroke-Releases/releases/latest
-2. 下载 `PA-Keystroke.exe`。
-3. 双击运行，按 Windows 提示允许管理员权限。
-4. 程序启动后会显示设置主窗口和覆盖层。
+2. 或者访问官网：https://pa-keystroke.github.io
+3. 下载 `PA-Keystroke.exe`。
+4. 双击运行，按 Windows 提示允许管理员权限。
+5. 程序启动后会显示设置主窗口和覆盖层。
 
 程序为免安装版本，不需要安装到固定目录。
 
