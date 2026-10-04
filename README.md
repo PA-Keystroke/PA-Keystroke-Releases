@@ -346,3 +346,10 @@
 欢迎向我们提出反馈：https://github.com/uninstall400/PA-Keystroke-Releases/issues
 
 或 QQ 群: 85121371
+
+## 赞赏
+
+若您认为 PA-Keystroke 是一个不错的项目，可以请我们喝杯咖啡！
+<div align="center">
+    <img src="resources/rewards.JPG"
+        title="PA Keystroke" alt="rewards code" width="120" />
