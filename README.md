@@ -352,4 +352,4 @@
 若您认为 PA-Keystroke 是一个不错的项目，可以请我们喝杯咖啡！
 <div align="center">
     <img src="resources/rewards.JPG"
-        title="PA Keystroke" alt="rewards code" width="120" />
+        title="PA Keystroke" alt="rewards code" width="300" />
